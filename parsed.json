@@ -1,0 +1,774 @@
+[
+    {
+        "name": "Week 1-4",
+        "weeks": [
+            {
+                "weekNumber": 1,
+                "runs": [
+                    {
+                        "distance": 3,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or cross-training (CT)",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 3,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 4,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            },
+            {
+                "weekNumber": 2,
+                "runs": [
+                    {
+                        "distance": 3,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 3,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 5,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            },
+            {
+                "weekNumber": 3,
+                "runs": [
+                    {
+                        "distance": 4,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 4,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 6,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            },
+            {
+                "weekNumber": 4,
+                "runs": [
+                    {
+                        "distance": 4,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 4,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 7,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Week 5-8",
+        "weeks": [
+            {
+                "weekNumber": 5,
+                "runs": [
+                    {
+                        "distance": 5,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 5,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 8,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            },
+            {
+                "weekNumber": 6,
+                "runs": [
+                    {
+                        "distance": 5,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 5,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 9,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            },
+            {
+                "weekNumber": 7,
+                "runs": [
+                    {
+                        "distance": 6,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 6,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 10,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            },
+            {
+                "weekNumber": 8,
+                "runs": [
+                    {
+                        "distance": 6,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 6,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 11,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Week 9-12",
+        "weeks": [
+            {
+                "weekNumber": 9,
+                "runs": [
+                    {
+                        "distance": 5,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 4,
+                        "description": "Tempo run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 12,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            },
+            {
+                "weekNumber": 10,
+                "runs": [
+                    {
+                        "distance": 5,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 5,
+                        "description": "Tempo run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 13,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            },
+            {
+                "weekNumber": 11,
+                "runs": [
+                    {
+                        "distance": 6,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 5,
+                        "description": "Speed intervals (e.g., 1 min fast, 2 min easy)",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 14,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            },
+            {
+                "weekNumber": 12,
+                "runs": [
+                    {
+                        "distance": 6,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 6,
+                        "description": "Speed intervals",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 15,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Week 13-16",
+        "weeks": [
+            {
+                "weekNumber": 13,
+                "runs": [
+                    {
+                        "distance": 7,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 6,
+                        "description": "Tempo run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 16,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            },
+            {
+                "weekNumber": 14,
+                "runs": [
+                    {
+                        "distance": 7,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 7,
+                        "description": "Speed intervals",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 18,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            },
+            {
+                "weekNumber": 15,
+                "runs": [
+                    {
+                        "distance": 6,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 5,
+                        "description": "Tempo run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 10,
+                        "description": "Long run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            },
+            {
+                "weekNumber": 16,
+                "runs": [
+                    {
+                        "distance": 5,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 3,
+                        "description": "Easy run",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Rest or CT",
+                        "time": 0,
+                        "pace": 0
+                    },
+                    {
+                        "distance": 0,
+                        "description": "Race Day - Half Marathon",
+                        "time": 0,
+                        "pace": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "running",
+  "version": "1.0.0",
+  "description": "running app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --ignore 'parsed.json' parser.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemod": "^3.0.6",
+    "ts-node": "^10.9.2"
+  }
+}

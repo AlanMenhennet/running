@@ -1,0 +1,155 @@
+{
+    "Week 1-4": {
+      "Week 1": {
+        "Monday": "3km easy run",
+        "Tuesday": "Rest or cross-training (CT)",
+        "Wednesday": "3km easy run",
+        "Thursday": "Rest or CT",
+        "Friday": "4km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      },
+      "Week 2": {
+        "Monday": "3km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "3km easy run",
+        "Thursday": "Rest or CT",
+        "Friday": "5km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      },
+      "Week 3": {
+        "Monday": "4km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "4km easy run",
+        "Thursday": "Rest or CT",
+        "Friday": "6km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      },
+      "Week 4": {
+        "Monday": "4km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "4km easy run",
+        "Thursday": "Rest or CT",
+        "Friday": "7km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      }
+    },
+    "Week 5-8": {
+      "Week 5": {
+        "Monday": "5km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "5km easy run",
+        "Thursday": "Rest or CT",
+        "Friday": "8km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      },
+      "Week 6": {
+        "Monday": "5km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "5km easy run",
+        "Thursday": "Rest or CT",
+        "Friday": "9km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      },
+      "Week 7": {
+        "Monday": "6km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "6km easy run",
+        "Thursday": "Rest or CT",
+        "Friday": "10km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      },
+      "Week 8": {
+        "Monday": "6km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "6km easy run",
+        "Thursday": "Rest or CT",
+        "Friday": "11km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      }
+    },
+    "Week 9-12": {
+      "Week 9": {
+        "Monday": "5km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "4km tempo run",
+        "Thursday": "Rest or CT",
+        "Friday": "12km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      },
+      "Week 10": {
+        "Monday": "5km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "5km tempo run",
+        "Thursday": "Rest or CT",
+        "Friday": "13km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      },
+      "Week 11": {
+        "Monday": "6km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "5km speed intervals (e.g., 1 min fast, 2 min easy)",
+        "Thursday": "Rest or CT",
+        "Friday": "14km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      },
+      "Week 12": {
+        "Monday": "6km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "6km speed intervals",
+        "Thursday": "Rest or CT",
+        "Friday": "15km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      }
+    },
+    "Week 13-16": {
+      "Week 13": {
+        "Monday": "7km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "6km tempo run",
+        "Thursday": "Rest or CT",
+        "Friday": "16km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      },
+      "Week 14": {
+        "Monday": "7km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "7km speed intervals",
+        "Thursday": "Rest or CT",
+        "Friday": "18km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      },
+      "Week 15 (Begin Taper)": {
+        "Monday": "6km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "5km tempo run",
+        "Thursday": "Rest or CT",
+        "Friday": "10km long run",
+        "Saturday": "Rest or CT",
+        "Sunday": "Rest"
+      },
+      "Week 16 (Race Week)": {
+        "Monday": "5km easy run",
+        "Tuesday": "Rest or CT",
+        "Wednesday": "3km easy run",
+        "Thursday": "Rest or CT",
+        "Friday": "Rest",
+        "Saturday": "Rest or CT",
+        "Sunday": "Race Day - Half Marathon"
+      }
+    }
+  }
+  
