@@ -4,13 +4,24 @@
   "description": "running app",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --ignore 'parsed.json' parser.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "json": "nodemon --ignore 'parsed.json' parser.ts",
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "nodemod": "^3.0.6",
+    "sass": "^1.77.5",
     "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "nuxt": "^3.12.1",
+    "vue": "^3.4.27",
+    "vue-router": "^4.3.3"
   }
 }

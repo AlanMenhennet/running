@@ -1,28 +1,14 @@
-class RunGroup  {
-    name = "";
-    weeks : RunWeek[] = [];
-}
-
-class RunWeek {
-    weekNumber = 0;
-    runs : Run[] = [];
-}
-
-class Run {
-    distance = 0
-    description = ""
-    time = 0;
-    pace = 0;
-}
-
 import * as fs from "fs";
+import { RunGroup } from "./model/RunGroup";
+import { RunWeek } from "./model/RunWeek";
+import { Run } from "./model/Run";
 
 const fileContent = fs.readFileSync("chatgpt.json", 'utf8');
 
 const json = JSON.parse(fileContent);
 const groups : RunGroup[] = [];
 Object.keys(json).forEach( groupKey =>{
-    const group = new RunGroup;
+    const group = new RunGroup();
     group.name = groupKey;
 
     const weeks = json[groupKey];
@@ -34,7 +20,7 @@ Object.keys(json).forEach( groupKey =>{
         week.weekNumber = weekNumber;
         const runKeys = Object.keys(weekJson);
         runKeys.forEach( (runKey : any) => {
-            const r = new Run;
+            const r = new Run();
             const distance = parseInt(weekJson[runKey])
             if(isNaN(distance)){
                 r.description = weekJson[runKey];
@@ -51,5 +37,5 @@ Object.keys(json).forEach( groupKey =>{
     groups.push(group);
 })
 
-fs.writeFileSync("parsed.json", JSON.stringify(groups, null, 4), 'utf8');
+fs.writeFileSync("public/parsed.json", JSON.stringify(groups, null, 4), 'utf8');
 
