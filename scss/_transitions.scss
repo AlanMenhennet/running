@@ -1,0 +1,17 @@
+
+.slide-down-enter-active,
+.slide-down-leave-active {
+    transition: max-height 1s ease-in-out;
+}
+
+.slide-down-enter-to,
+.slide-down-leave {
+    overflow: hidden;
+    max-height: 1000px;
+}
+
+.slide-down-enter,
+.slide-down-leave-to {
+    overflow: hidden;
+    max-height: 0;
+}

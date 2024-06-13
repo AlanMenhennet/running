@@ -3,6 +3,7 @@ export class Run {
     description = ""
     time = 0;
     pace = 0;
+    completed = false;
 
     fromJSON(json : any){
         this.distance = json.distance;

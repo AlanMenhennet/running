@@ -16,4 +16,12 @@ export class RunWeek {
     getDistance() : number {
         return this.runs.reduce((acc, run) => acc + run.distance, 0);
     }
+
+    getCompletedDistance() : number {
+        return this.runs.reduce((acc, run) => run.completed ? acc + run.distance : acc, 0);
+    }
+
+    isCompleted() {
+        return this.getDistance() == this.getCompletedDistance();
+    }
 }

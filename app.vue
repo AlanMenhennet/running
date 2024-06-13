@@ -1,4 +1,5 @@
 <template>
+  <h1>Run<span>Fire</span></h1>
   <RunGroupComponent v-for="(group, index) in groups" :group="group"></RunGroupComponent>
 </template>
 
@@ -23,3 +24,16 @@ onMounted( async () =>{
 
 
 </script>
+
+<style lang="scss" scoped>
+h1 {
+    text-align: center;
+    margin:.5em 0 0;
+
+    span {
+        color:var(--color_progress)
+    }
+}
+
+
+</style>

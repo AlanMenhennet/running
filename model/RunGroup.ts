@@ -12,4 +12,12 @@ export class RunGroup  {
             return w;
         })
     }
+
+    getDistance() : number {
+        return this.weeks.reduce((acc, week) => acc + week.getDistance(), 0);
+    }
+
+    getCompletedDistance() : number {
+        return this.weeks.reduce((acc, week) => acc + week.getCompletedDistance(), 0);
+    }
 }
