@@ -11,7 +11,6 @@ let groups : Ref<RunGroup[]> = ref([]);
 
 onMounted( async () =>{
     const resp : any[] = await $fetch("/parsed.json");
-    console.log(resp)
     const arr : RunGroup[] = [];
     resp.forEach( groupJson=> {
         const group = new RunGroup();

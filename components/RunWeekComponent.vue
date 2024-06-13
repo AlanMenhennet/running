@@ -1,7 +1,7 @@
 <template>
     <div class="run-week" 
         
-        :class="!viewRuns ? 'closed' : ''">
+        :class="getClasses()">
         <div class="run-week-header" @click="toggleViewRuns()">
             <h2>Week {{ week.weekNumber }}</h2>
             <div class="run-week-distance">{{week.getCompletedDistance()}}/{{week.getDistance()}}kms</div>
@@ -24,6 +24,7 @@
     const {week} = defineProps(["week"])
 
     const viewRuns = ref(true)
+    const loaded = ref(false);
 
     function getProgressStyle(){
         return {
@@ -35,6 +36,40 @@
         viewRuns.value = !viewRuns.value
     
     }
+
+    function getClasses() : string[] {
+        const classes : string[] = [];
+        if(!viewRuns.value){
+            classes.push('closed')
+        }
+
+        if(loaded.value){
+            classes.push('loaded')
+        }
+
+        if(week.isCompleted()){
+            classes.push('completed')
+        }
+        return classes;
+    }
+
+    onMounted( async () =>{
+        // Auto close if week is completed
+        if(week.isCompleted()){
+            viewRuns.value = false
+        }
+
+        /**
+         * Low tech solution. To stop all the completed weeks
+         * animating shut on load. The transition is only applied
+         * when the div has a class of loaded. We apply that an
+         * arbitrary time after the component is mounted.
+         */
+        setTimeout( () =>{
+            loaded.value = true;
+        }, 300)
+        
+    })
 
 </script>
 
@@ -82,7 +117,7 @@
 
     .run-week__runs {
         margin-top:2em;
-        transition:.5s;
+        
         overflow: hidden;
         max-height:900px;
 
@@ -94,6 +129,25 @@
 
         .run:nth-last-child(1){
             margin-bottom:0;
+        }
+    }
+
+    &.loaded {
+        .run-week__runs {
+            transition:.5s;
+        }
+    }
+
+    &.completed {
+        color:var(--color__completed-text);
+        background:var(--color_completed);
+
+        h2 {
+            color:var(--color__completed-text);
+        }
+        
+        .run-week-progress__inner {
+            background:var(--color__completed-text);
         }
     }
 

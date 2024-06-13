@@ -9,43 +9,50 @@
                         "distance": 3,
                         "description": "Easy run",
                         "time": 0,
-                        "pace": 0
+                        "pace": 0,
+                        "completed" : true
                     },
                     {
                         "distance": 0,
                         "description": "Rest or cross-training (CT)",
                         "time": 0,
-                        "pace": 0
+                        "pace": 0,
+                        "completed" : true
                     },
                     {
                         "distance": 3,
                         "description": "Easy run",
                         "time": 0,
-                        "pace": 0
+                        "pace": 0,
+                        "completed" : true
                     },
                     {
                         "distance": 0,
                         "description": "Rest or CT",
                         "time": 0,
-                        "pace": 0
+                        "pace": 0,
+                        "completed" : true
                     },
                     {
                         "distance": 4,
                         "description": "Long run",
                         "time": 0,
-                        "pace": 0
+                        "pace": 0,
+                        "completed" : true
                     },
                     {
                         "distance": 0,
                         "description": "Rest or CT",
                         "time": 0,
-                        "pace": 0
+                        "pace": 0,
+                        "completed" : true
                     },
                     {
                         "distance": 0,
                         "description": "Rest",
                         "time": 0,
-                        "pace": 0
+                        "pace": 0,
+                        "completed" : true
                     }
                 ]
             },

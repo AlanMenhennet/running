@@ -22,6 +22,6 @@ export class RunWeek {
     }
 
     isCompleted() {
-        return this.getDistance() == this.getCompletedDistance();
+        return this.runs.every(run => run.completed);
     }
 }

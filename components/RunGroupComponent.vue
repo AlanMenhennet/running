@@ -2,7 +2,7 @@
     <div class="run-group">
         <h4>{{ group.name }}</h4>
         <div class="run-week-distance">{{group.getCompletedDistance()}}/{{group.getDistance()}}kms</div>
-    <RunWeekComponent v-for="(week, index) in group.weeks" 
+        <RunWeekComponent v-for="(week, index) in group.weeks" 
                     :week="week"
                     :key="index"></RunWeekComponent>
     </div>

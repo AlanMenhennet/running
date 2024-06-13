@@ -10,5 +10,6 @@ export class Run {
         this.description = json.description;
         this.time = json.time;
         this.pace = json.pace;
+        this.completed = json.completed;
     }
 }
